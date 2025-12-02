@@ -62,9 +62,10 @@
 
 | 🔥 Project | 📄 Summary | 🛠️ Stack |
 |-----------|-----------|-----------|
-| 📊 **Sales Insights Dashboard** | Business KPI and analytics to unlock insights | Power BI • SQL |
+| 📊 **Sales Insights** | Business KPI and analytics to unlock insights | Python |
 | 🤖 **ML Prediction Model** | End-to-end ML pipeline with evaluation | Python • Sklearn • Joblib |
 | 🧼 **Data Cleaning Automation** | Detects missing values, outliers & transforms data | Pandas • Missingno • NumPy |
+| 🧼 **Ai Powered Storyteller Dashboard** | Generates AI Insights | Python • Streamlit • Hugging Face |
 
 🚧 *More exciting projects in progress... stay tuned ⚡*
 
@@ -73,12 +74,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VJX_DATALAB7&theme=tokyonight&hide_border=true" width="47%">
-<img src="https://github-readme-stats.vercel.app/api?username=VJX_DATALAB&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vijay-aid-007&theme=tokyonight&hide_border=true" width="47%">
+<img src="https://github-readme-stats.vercel.app/api?username=vijay-aid-007&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJX_DATALAB&layout=compact&theme=tokyonight&hide_border=true" width="38%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-aid-007&layout=compact&theme=tokyonight&hide_border=true" width="38%">
 </p>
 
 ---
@@ -86,13 +87,13 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/vdsj2533" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
 <img src="https://img.shields.io/badge/X(Formerly Twitter)-000?style=for-the-badge&logo=x&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vijayjoka25@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
